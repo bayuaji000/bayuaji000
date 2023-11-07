@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **M. Bayu Aji**.<br>
+Perkenalkan saya **M. Bayu Aji**.<br>
 
 Saya seorang **Front-End Developer**.<br>
 
