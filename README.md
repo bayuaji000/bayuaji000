@@ -1,10 +1,10 @@
-# Halo semua! 
+# Hello everyone! 
 
-Perkenalkan saya **M. Bayu Aji**.<br>
+I'm **M. Bayu Aji**.<br>
 
-Saya seorang **Front-End Developer**.<br>
+I'm a **Front-End Developer**.<br>
 
-Saya lulusan Dicoding Indonesia dengan dibekali [sertifikasi Menjadi React Web Developer Expert](https://www.dicoding.com/certificates/EYX49QJ0RPDL).<br>
+I graduated from Dicoding Indonesia with [certification Menjadi React Web Developer Expert](https://www.dicoding.com/certificates/EYX49QJ0RPDL).<br>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
