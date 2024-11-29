@@ -8,7 +8,7 @@ I graduated from Dicoding Indonesia with [certification Menjadi React Web Develo
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://www.svgrepo.com/show/376344/python.svg"/></a>
+<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://www.svgrepo.com/show/376344/python.svg"/></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
    <a href="https://www.typescriptlang.org/"><img align="left" alt="Typescript" title="Typescript" width="21px" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" /></a>
