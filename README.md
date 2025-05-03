@@ -15,8 +15,6 @@ I graduated from Dicoding Indonesia with [certification Menjadi React Web Develo
   <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg" /></a>
   <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" width="21px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" /></a>
   <a href="https://vitejs.dev/"><img align="left" alt="Vite" title="Vite" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" /></a>
-
-
   <br>
   <br>
   
