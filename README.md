@@ -23,7 +23,7 @@ I graduated from Dicoding Indonesia with [certification Menjadi React Web Develo
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/bayuaji000">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayuaji000&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bayuaji000&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bayuaji000&layout=compact&layout=compact&theme=default"/>
 </a>
 </p>
