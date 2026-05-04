@@ -1,11 +1,5 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════╗
-║          M. BAYU AJI  ·  @bayuaji000         ║
-╚══════════════════════════════════════════════╝
-```
-
 **Software Engineer** — building interfaces & automations that ship
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=React+Web+Developer+Expert;TypeScript+%7C+Next.js+%7C+Python;Workflow+Automation+with+n8n)](https://git.io/typing-svg)
@@ -35,7 +29,7 @@ cert    : React Web Developer Expert — Dicoding Indonesia [EYX49QJ0RPDL]
 <a href="https://www.python.org/"><img alt="Python" title="Python" height="28px" src="https://www.svgrepo.com/show/452091/python.svg" /></a>&nbsp;&nbsp;
 <a href="https://reactjs.org/"><img alt="React" title="React" height="28px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>&nbsp;&nbsp;
 <a href="https://vitejs.dev/"><img alt="Vite" title="Vite" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Vite_Logo_2026.svg" /></a>&nbsp;&nbsp;
-<a href="https://nextjs.org/"><img alt="Next.js" title="Next.js" height="28px" src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B" /></a>&nbsp;&nbsp;
+<a href="https://nextjs.org/"><img alt="Next.js" title="Next.js" height="28px" src="https://www.svgrepo.com/show/342062/next-js.svg" /></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" title="Tailwind CSS" height="28px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" /></a>&nbsp;&nbsp;
 <a href="https://n8n.io/"><img alt="n8n" title="n8n" height="28px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" /></a>
 
