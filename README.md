@@ -14,8 +14,7 @@ I graduated from Dicoding Indonesia with [certification Menjadi React Web Develo
   <a href="https://vitejs.dev/"><img align="left" alt="Vite" title="Vite" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Vite_Logo_2026.svg"/></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="NextJS" width="21px" src="https://cdn.brandfetch.io/id2alue-rx/theme/dark/idqNI71Hra.svg?c=1dxbfHSJFAPEGdCLU4o5B" /></a>
   <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind" title="Tailwind" width="21px" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" /></a>
-  <a href="https://n8n.io/"><img align="left" alt="n8n" title="n8n" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
-" /></a>
+  <a href="https://n8n.io/"><img align="left" alt="n8n" title="n8n" width="21px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg"/></a>
   <br>
   <br>
   
