@@ -2,7 +2,7 @@
 
 I'm **M. Bayu Aji**.<br>
 
-I'm a **Front-End Developer**.<br>
+I'm a **Software Engineer**.<br>
 
 I graduated from Dicoding Indonesia with [certification Menjadi React Web Developer Expert](https://www.dicoding.com/certificates/EYX49QJ0RPDL).<br>
 
