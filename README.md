@@ -60,11 +60,3 @@ cert    : React Web Developer Expert — Dicoding Indonesia [EYX49QJ0RPDL]
 
 > 🎓 **React Web Developer Expert** · [Dicoding Indonesia](https://www.dicoding.com/certificates/EYX49QJ0RPDL)
 > `cert-id: EYX49QJ0RPDL`
-
----
-
-<div align="center">
-
-*// made with ♥ & TypeScript*
-
-</div>
